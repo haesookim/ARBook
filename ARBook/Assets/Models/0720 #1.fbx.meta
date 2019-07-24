@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: d05362b983fac4592bf3ea92f560d564
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: base
+    100004: CINEMA_4D_Editor
+    100006: Column
+    100008: Column_jewel
+    100010: Controller
+    100012: Controller_fixed
+    100014: Controller_spin
+    100016: Energy
+    100018: Escapement
+    100020: Escapement_fixed
+    100022: Escapement_line
+    100024: Escapement_wheel
+    100026: fixed
+    100028: Frame
+    100030: glass
+    100032: Indicator
+    100034: indicator
+    100036: indicator_frame
+    100038: Inside
+    100040: long
+    100042: outside_glass
+    100044: short
+    100046: wheel_1
+    100048: wheel_2
+    100050: wheel_3
+    100052: wheel_4
+    100054: wheel_5
+    100056: Wheels
+    400000: //RootNode
+    400002: base
+    400004: CINEMA_4D_Editor
+    400006: Column
+    400008: Column_jewel
+    400010: Controller
+    400012: Controller_fixed
+    400014: Controller_spin
+    400016: Energy
+    400018: Escapement
+    400020: Escapement_fixed
+    400022: Escapement_line
+    400024: Escapement_wheel
+    400026: fixed
+    400028: Frame
+    400030: glass
+    400032: Indicator
+    400034: indicator
+    400036: indicator_frame
+    400038: Inside
+    400040: long
+    400042: outside_glass
+    400044: short
+    400046: wheel_1
+    400048: wheel_2
+    400050: wheel_3
+    400052: wheel_4
+    400054: wheel_5
+    400056: Wheels
+    2000000: CINEMA_4D_Editor
+    2100000: No Name
+    2100002: Gold
+    2100004: Diamond
+    2100006: flat glass
+    2100008: Glass
+    2300000: base
+    2300002: Column
+    2300004: Column_jewel
+    2300006: Controller_fixed
+    2300008: Controller_spin
+    2300010: Escapement_fixed
+    2300012: Escapement_line
+    2300014: Escapement_wheel
+    2300016: fixed
+    2300018: glass
+    2300020: indicator
+    2300022: indicator_frame
+    2300024: long
+    2300026: outside_glass
+    2300028: short
+    2300030: wheel_1
+    2300032: wheel_2
+    2300034: wheel_3
+    2300036: wheel_4
+    2300038: wheel_5
+    3300000: base
+    3300002: Column
+    3300004: Column_jewel
+    3300006: Controller_fixed
+    3300008: Controller_spin
+    3300010: Escapement_fixed
+    3300012: Escapement_line
+    3300014: Escapement_wheel
+    3300016: fixed
+    3300018: glass
+    3300020: indicator
+    3300022: indicator_frame
+    3300024: long
+    3300026: outside_glass
+    3300028: short
+    3300030: wheel_1
+    3300032: wheel_2
+    3300034: wheel_3
+    3300036: wheel_4
+    3300038: wheel_5
+    4300000: Controller_spin
+    4300002: Controller_fixed
+    4300004: Escapement_line
+    4300006: Escapement_fixed
+    4300008: Escapement_wheel
+    4300010: Column
+    4300012: Column_jewel
+    4300014: wheel_1
+    4300016: wheel_2
+    4300018: fixed
+    4300020: wheel_3
+    4300022: wheel_4
+    4300024: wheel_5
+    4300026: indicator_frame
+    4300028: indicator
+    4300030: glass
+    4300032: short
+    4300034: long
+    4300036: outside_glass
+    4300038: base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

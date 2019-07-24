@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 639a022d5379c444cbaf789e36d1cfe8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CINEMA_4D_Editor
+    100004: Column
+    100006: Column_jewel
+    100008: Controller
+    100010: Controller___esc
+    100012: Controller_fixed
+    100014: Controller_spin
+    100016: Energy
+    100018: Escapement
+    100020: Escapement_fixed
+    100022: Escapement_line
+    100024: Escapement_wheel
+    100026: fixed
+    100028: wheel_1
+    100030: wheel_2
+    100032: wheel_3
+    100034: wheel_4
+    100036: wheel_5
+    100038: Wheels
+    400000: //RootNode
+    400002: CINEMA_4D_Editor
+    400004: Column
+    400006: Column_jewel
+    400008: Controller
+    400010: Controller___esc
+    400012: Controller_fixed
+    400014: Controller_spin
+    400016: Energy
+    400018: Escapement
+    400020: Escapement_fixed
+    400022: Escapement_line
+    400024: Escapement_wheel
+    400026: fixed
+    400028: wheel_1
+    400030: wheel_2
+    400032: wheel_3
+    400034: wheel_4
+    400036: wheel_5
+    400038: Wheels
+    2000000: CINEMA_4D_Editor
+    2100000: No Name
+    2300000: Column
+    2300002: Column_jewel
+    2300004: Controller_fixed
+    2300006: Controller_spin
+    2300008: Escapement_fixed
+    2300010: Escapement_line
+    2300012: Escapement_wheel
+    2300014: fixed
+    2300016: wheel_1
+    2300018: wheel_2
+    2300020: wheel_3
+    2300022: wheel_4
+    2300024: wheel_5
+    3300000: Column
+    3300002: Column_jewel
+    3300004: Controller_fixed
+    3300006: Controller_spin
+    3300008: Escapement_fixed
+    3300010: Escapement_line
+    3300012: Escapement_wheel
+    3300014: fixed
+    3300016: wheel_1
+    3300018: wheel_2
+    3300020: wheel_3
+    3300022: wheel_4
+    3300024: wheel_5
+    4300000: Column
+    4300002: Column_jewel
+    4300004: wheel_1
+    4300006: wheel_2
+    4300008: fixed
+    4300010: wheel_3
+    4300012: wheel_4
+    4300014: wheel_5
+    4300016: Escapement_wheel
+    4300018: Escapement_line
+    4300020: Escapement_fixed
+    4300022: Controller_spin
+    4300024: Controller_fixed
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
